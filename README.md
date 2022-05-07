@@ -1,5 +1,6 @@
 # `🐉` greetings
-`👋🏾` my name is vivek, and i am a creative coder and designer<br>
+`👋🏾` my name is vivek<br>
+`👨🏾‍💻` i am a creative coder and designer<br>
 `🏡` based in new york and bombay<br>
 `🎓` parsons graduate with a degree in communication design
 
