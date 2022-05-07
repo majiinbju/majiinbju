@@ -14,7 +14,8 @@
 `👨🏾‍🎨` proficient in HTML & CSS<br>
 `👷🏾‍♂️` working knowledge of JavaScript and JSON<br>
 `🧱` backend/CMS experience in PHP using Kirby CMS<br>
-`✍🏾` wireframing & designing websites using Sketch & Figma
+`✍🏾` wireframing & designing websites using Sketch & Figma<br>
+`👨🏾‍🔬` proficient in creative suite<br>
 
 ---
 > [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
