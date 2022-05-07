@@ -1,16 +1,12 @@
-### Hi there 👋
+hello 🐉
+========
+- `👋🏾` my name is vivek, and i am a creative coder and designer
+- `🏡` based in new york and bombay
+- `🎓` parsons graduate with a degree in communication design
 
-<!--
-**majiinbju/majiinbju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## about me 👽
+my goal in any design project is to bridge the gap between meaning and aesthetic. as such, i like to make interactive experiences which take advantage of the web's capabilities. ==i am currently looking for opportunities to work with interesting people and grow in the process== 🌺
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+> [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
+> github [@majiinbju](https://github.com/majiinbju) 
