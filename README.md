@@ -1,7 +1,7 @@
 # `🐉` greetings
-`👋🏾` `my name is vivek, and i am a creative coder and designer`<br>
-`🏡` `based in new york and bombay`<br>
-`🎓` `parsons graduate with a degree in communication design`
+`👋🏾` my name is vivek, and i am a creative coder and designer<br>
+`🏡` based in new york and bombay<br>
+`🎓` parsons graduate with a degree in communication design
 
 ## `👽` about me
 > my goal in any design project is to bridge the gap between meaning and aesthetic. as such, i like to make interactive experiences which take advantage of the web's capabilities.
@@ -10,10 +10,10 @@
 
 ## `🎨` skills
 
-`👨🏾‍🎨` `proficient in HTML & CSS`<br>
-`👷🏾‍♂️` `working knowledge of JavaScript and JSON`<br>
-`🧱` `backend/CMS experience in PHP using Kirby CMS`<br>
-`✍🏾` `wireframing & designing websites using Sketch & Figma`
+`👨🏾‍🎨` proficient in HTML & CSS<br>
+`👷🏾‍♂️` working knowledge of JavaScript and JSON<br>
+`🧱` backend/CMS experience in PHP using Kirby CMS<br>
+`✍🏾` wireframing & designing websites using Sketch & Figma
 
 ---
 > [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
