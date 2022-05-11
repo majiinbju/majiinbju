@@ -10,7 +10,7 @@
 ## 👽 about me
 > my goal in any design project is to bridge the gap between meaning and aesthetic. as such, i like to make interactive experiences which take advantage of the web's capabilities.
  
-> ***👀 i am currently looking for opportunities to work with interesting people and grow in the process 👀***
+> *👀 i am currently looking for opportunities to work with interesting people and grow in the process 👀*
 
 ## 🎨 skills
 
