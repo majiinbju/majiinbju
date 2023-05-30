@@ -1,32 +1,28 @@
 # 🐉 Greetings
-👋🏾 my name is vivek
+👋🏾 My name is vivek
 
-👨🏾‍💻 i am a creative coder and designer
+👨🏾‍💻 Developer and designer based in New York & Mumbai
 
-🏡 based in new york and bombay
+🎓 *[Parsons School of Design](https://www.newschool.edu/parsons/)* 
 
-🎓 *[parsons](https://www.newschool.edu/parsons/)* graduate with a degree in communication design
-
-## 👽 about me
-🎯 my goal in any design project is to bridge the gap between meaning and aesthetic. as such, i like to make interactive experiences which take advantage of the web's capabilities.
+## 👽 About me
+🎯 My goal in any design project is to bridge the gap between meaning and aesthetics. As such, I like to make interactive experiences which take advantage of the web's capabilities.
  
-*👀 i am currently looking for opportunities to work with interesting people and grow in the process*
+*👀 I am currently looking for opportunities to work with interesting people and grow in the process*
 
-## 🎨 skills
+## 🎨 Skills
 
-👨🏾‍🎨 proficient in HTML & CSS
+- 👨🏾‍🎨 HTML, CSS
 
-👷🏾‍♂️ working knowledge of JavaScript and JSON
+- 👷🏾‍♂️ JSON & JavaScript
 
-🧱 backend/CMS experience in PHP using Kirby CMS
+- 🧱 Backend/CMS experience in PHP using Kirby CMS
 
-✍🏾 wireframing & designing websites using Sketch & Figma
-
-👨🏾‍🔬 proficient in creative suite
+- 🛠️ Bootstrap
 
 ---
-> [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
+> [viv1.info](https://www.viv1.info) &nbsp;&middot;&nbsp;
 > [@majiinbju](https://github.com/majiinbju) &nbsp;&middot;&nbsp;
-> [linkedin](https://www.linkedin.com/in/vivek-bajaj-4a8035152/) &nbsp;&middot;&nbsp;
-> [email](mailto:hi@vivekbajaj.design)
+> [linkedin](https://www.linkedin.com/in/vivek-bajaj) &nbsp;&middot;&nbsp;
+> [email](mailto:vivekbajaj14@gmail.com)
 ---
