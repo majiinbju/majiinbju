@@ -1,9 +1,9 @@
 # 🐉 Greetings
-👋🏾 My name is vivek
+👋🏾 My name is Vivek!
 
 👨🏾‍💻 Developer and designer based in New York & Mumbai
 
-🎓 *[Parsons School of Design](https://www.newschool.edu/parsons/)* 
+🎓 Studied Communication Design at *[Parsons School of Design](https://www.newschool.edu/parsons/)* 
 
 ## 👽 About me
 🎯 My goal in any design project is to bridge the gap between meaning and aesthetics. As such, I like to make interactive experiences which take advantage of the web's capabilities.
