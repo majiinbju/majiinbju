@@ -1,4 +1,4 @@
-# 🐉 greetings
+# 🐉 Greetings
 👋🏾 my name is vivek
 
 👨🏾‍💻 i am a creative coder and designer
